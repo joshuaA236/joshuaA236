@@ -1,6 +1,6 @@
 # Model Card: 'Josh-ahlers'
 
-> MLops engineer and Boston University Computer Science and Artificial intelligence graduate student. Trained in Python, Java, Machine learning, and Philosophy.
+> MLOps engineer and Boston University Computer Science and Artificial intelligence graduate student. Trained in Python, Java, Machine learning, and Philosophy.
 
 --- 
 
@@ -9,7 +9,7 @@
 | Field | Value
 |----|----|
 |**Foundation** | Computer Science, Economics and Philosophy
-|**Current Version** | v2.1, version 2.2 WIP
+|**Current Version** | v2.1
 |**Deployment** | Data software Engineer deployed by MLOps Engineering team|
 |**Region** | Milwaukee
 
@@ -19,7 +19,7 @@
 ```mermaid 
 pie showData
     title Training Data Composition
-    "Production MLOps" : 30
+    "MLOps" : 30
     "Computer Science & AI" : 30
     "Philosophy" : 30
     "Economics" : 10
@@ -56,7 +56,7 @@ quadrantChart
     quadrant-2 Interests
     quadrant-3 Foundational
     quadrant-4 Advanced
-    MLOps: [0.8, 0.9]
+    MLOps: [0.8, 0.4]
     Agents: [0.7, 0.8]
     Ontology: [0.2, 0.7]
     Deleuze: [0.2, 0.3]
