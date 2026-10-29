@@ -41,7 +41,7 @@ xychart-beta
 xychart-beta
     title "Eval Scores"
     x-axis ["MLOps", "Python", "CI/CD", "Agentic workflows", "Java"]
-    y-axis "Loss" 0 --> 100
+    y-axis "Score" 0 --> 100
     bar [90, 75, 70, 60, 60]
 ```
 
