@@ -4,7 +4,7 @@
 
 --- 
 
-# Model Details:
+## Model Details:
 
 | Field | Value
 |----|----|
@@ -57,10 +57,10 @@ quadrantChart
     quadrant-3 Foundational
     quadrant-4 Advanced
     MLOps: [0.8, 0.9]
-    Agents: [.7, .8]
-    Ontology: [.2, .7]
-    Deleuze: [.2, .3]
-    MCP: [.8, .9]
+    Agents: [0.7, 0.8]
+    Ontology: [0.2, 0.7]
+    Deleuze: [0.2, 0.3]
+    MCP: [0.8, 0.9]
    
 ```
 
