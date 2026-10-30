@@ -30,7 +30,7 @@ pie showData
 ```mermaid 
 xychart-beta
     title "Training Loss"
-    x-axis ["Undergrad", "First software engineering role", "MLOps role", "Graduate school"]
+    x-axis ["Undergrad", "IOS Engineer role", "MLOps Engineer role", "Graduate school"]
     y-axis "Loss" 0 --> 1
     line [0.9, 0.65, 0.4, 0.25]
 ```
@@ -68,6 +68,7 @@ quadrantChart
 ```
 
 ## Dependencies
+
 ```
 # languages
 python
