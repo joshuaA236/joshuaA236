@@ -1,6 +1,6 @@
 # Model Card: 'Josh-ahlers'
 
-> MLOps engineer and Boston University Computer Science and Artificial intelligence graduate student. Trained in Python, Java, Machine learning, and Philosophy.
+> MLOps engineer and Boston University Computer Science and Artificial Intelligence graduate student. Trained in Python, Java, Machine learning, and Philosophy.
 
 --- 
 
@@ -8,17 +8,17 @@
 
 | Field | Value
 |----|----|
-|**Foundation** | Computer Science, Economics and Philosophy
+|**Foundation** | Computer Science, Philosophy, andEconomics
 |**Current Version** | v2.1
 |**Deployment** | Data software Engineer deployed by MLOps Engineering team|
 |**Region** | Milwaukee
 
 
-## Data Model was Trained on
+## Training Data
 
 ```mermaid 
 pie showData
-    title Training Data Composition
+    title Training Data
     "MLOps" : 30
     "Computer Science & AI" : 30
     "Philosophy" : 30
@@ -64,18 +64,47 @@ quadrantChart
    
 ```
 
+## Dependencies
+```
+# languages
+python
+java
+C
+java script
+type script
+
+# ml & data
+mlflow
+pyspark
+scikit-learn
+pandas
+
+# mlops & infrastructure
+docker
+kubernetes
+nginx
+gitlab-ci
+azure
+
+
+
+```
+
+## Known Limitations
+- Takes 4 hours to record a 4 minute demo
+- Uses too many emojis
+
 
 ## Intended Use
-
 - Building and maintaining ML Systems
 - Designing Agents and MCP integrations
-- Finding new production flows
+- Finding new and unique ways to automate
 
 ## Version History
 
 ```mermaid
 timeline
-  title release History
+  title Release History
   v1.0: B.A. Philosophy and Economics
   v1.1: Java Certificate
   v2.0: MLOps Engineer
