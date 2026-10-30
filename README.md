@@ -8,7 +8,7 @@
 
 | Field | Value
 |----|----|
-|**Foundation** | Computer Science, Philosophy, andEconomics
+|**Foundation** | Computer Science, Philosophy, and Economics
 |**Current Version** | v2.1
 |**Deployment** | Data Software Engineer on the MLOps Engineering team|
 |**Region** | Milwaukee
