@@ -94,7 +94,6 @@ azure
 - **MLOps Plugin Framework**: Rearchitected my team's MLOps stack into a plugin based Python Framework so teams can add algorithms, data frameworks, and feature stores without touching core code.
 - **Notebook to Production Gen AI Tool**: Created an LLM powered tool that turns Jupyter notebook logic into reusable Python modules and generates pytest suites.
 - **MCP Gateway**: Developed a secure gateway for MCP resources servers using Azure Entra token validation and zero trust downstream authentication
-- **Databricks Migration**: Moved six marketing models from Domino to Databricks.
 
 ## Known Limitations
 - Takes 4 hours to record a 4 minute demo
