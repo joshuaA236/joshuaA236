@@ -90,11 +90,15 @@ nginx
 gitlab-ci
 azure
 ```
+## Notable Deployments
+- **MLOps Plugin Framework**: Rearchitected my team's MLOps stack into a plugin based Python Framework so teams can add algorithms, data frameworks, and feature stores without touching core code.
+- **Notebook to Production Gen AI Tool**: Created an LLM powered tool that turns Jupyter notebook logic into reusable Python modules and generates pytest suites.
+- **MCP Gateway**: Developed a secure gateway for MCP resources servers using Azure Entra token validation and zero trust downstream authentication
+- **Databricks Migration**: Moved six marketing models from Domino to Databricks.
 
 ## Known Limitations
 - Takes 4 hours to record a 4 minute demo
 - Uses too many emojis
-
 
 ## Intended Use
 - Building and maintaining ML Systems
@@ -107,7 +111,9 @@ azure
 timeline
   title Release History
   v1.0: B.A. Philosophy and Economics
-  v1.1: Java Certificate
+  v1.1: Full Stack Java Certificate
+  v1.2: IOS Engineer
+  v1.3: Application Engineer
   v2.0: MLOps Engineer
-  v2.1: Computer Science and Artificial Intelligence at Boston University
+  v2.1: Computer Science and Artificial Intelligence Degree at Boston University
 ```
