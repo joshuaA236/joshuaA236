@@ -10,7 +10,7 @@
 |----|----|
 |**Foundation** | Computer Science, Philosophy, andEconomics
 |**Current Version** | v2.1
-|**Deployment** | Data software Engineer deployed by MLOps Engineering team|
+|**Deployment** | Data Software Engineer on the MLOps Engineering team|
 |**Region** | Milwaukee
 
 
