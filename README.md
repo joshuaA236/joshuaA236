@@ -61,6 +61,9 @@ quadrantChart
     Ontology: [0.2, 0.7]
     Deleuze: [0.2, 0.3]
     MCP: [0.8, 0.9]
+    Model Deployment: [0.9, 0.3]
+    Game Theory: [.35, 0.2]
+    Automation: [0.85, 0.2]
    
 ```
 
