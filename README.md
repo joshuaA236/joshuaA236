@@ -1,4 +1,4 @@
-# Model Card: 'Josh-ahlers'
+# Model Card: `Josh-ahlers`
 
 > MLOps engineer and Boston University Computer Science and Artificial Intelligence graduate student. Trained in Python, Java, Machine learning, and Philosophy.
 
@@ -69,7 +69,7 @@ quadrantChart
 
 ## Dependencies
 
-```
+```text
 # languages
 python
 java
@@ -87,7 +87,7 @@ pandas
 docker
 kubernetes
 nginx
-gitlab-ci
+gitlab ci/cd
 azure
 ```
 ## Notable Deployments
@@ -114,7 +114,7 @@ timeline
   v1.2: IOS Engineer
   v1.3: Application Engineer
   v2.0: MLOps Engineer
-  v2.1: Computer Science and Artificial Intelligence Degree at Boston University
+  v2.1: Computer Science and Artificial Intelligence Degree at Boston University - in progress
 ```
 ## Resume
 
