@@ -36,6 +36,7 @@ xychart-beta
 ```
 
 ## Evaluation 
+*How I view my intrests*
 
 ```mermaid 
 xychart-beta
@@ -68,7 +69,7 @@ quadrantChart
 ```
 
 ## Dependencies
-
+*Language and tools I use most often*
 ```text
 # languages
 python
@@ -91,11 +92,13 @@ gitlab ci/cd
 azure
 ```
 ## Notable Deployments
+*Projects I've built*
 - **MLOps Plugin Framework**: Rearchitected my team's MLOps stack into a plugin based Python Framework so teams can add algorithms, data frameworks, and feature stores without touching core code.
 - **Notebook to Production Gen AI Tool**: Created an LLM powered tool that turns Jupyter notebook logic into reusable Python modules and generates pytest suites.
 - **MCP Gateway**: Developed a secure gateway for MCP resources servers using Azure Entra token validation and zero trust downstream authentication
 
 ## Known Limitations
+*Known bugs, WIP*
 - Takes 4 hours to record a 4 minute demo
 - Uses too many emojis
 
@@ -104,11 +107,14 @@ azure
 - Designing Agents and MCP integrations
 - Finding new and unique ways to automate
 
-## Resume
+## Model Sources
 
-[view my resume](./Josh%20Ahlers%20Engineering%20Resume.pdf)
+| Source | Link |
+|---| --- |
+| **Technical Reference** | [Resume](./Josh%20Ahlers%20Engineering%20Resume.pdf) |
 
 ## Version History
+*My education and career*
 
 ```mermaid
 timeline
