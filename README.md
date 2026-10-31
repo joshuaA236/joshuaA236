@@ -116,3 +116,6 @@ timeline
   v2.0: MLOps Engineer
   v2.1: Computer Science and Artificial Intelligence Degree at Boston University
 ```
+## Resume
+
+[view my resume](./Josh%20Ahlers%20Engineering%20Resume.pdf)
