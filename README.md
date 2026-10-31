@@ -15,7 +15,7 @@
 
 
 ## Training Data
-
+*How my background is spilt across different fields*
 ```mermaid 
 pie showData
     title Training Data
@@ -26,7 +26,7 @@ pie showData
 ```
 
 ## Training Curve 
-
+*Lower is better. Here this means how much I still needed to learn from when I started to where I am now*
 ```mermaid 
 xychart-beta
     title "Training Loss"
@@ -36,7 +36,7 @@ xychart-beta
 ```
 
 ## Evaluation 
-*How I view my intrests*
+*Self assessed skill level (0-100)*
 
 ```mermaid 
 xychart-beta
@@ -47,7 +47,7 @@ xychart-beta
 ```
 
 ## Feature Space 
-
+*How I view my interests*
 ```mermaid 
 quadrantChart
     title Interest Map
