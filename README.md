@@ -75,8 +75,8 @@ quadrantChart
 python
 java
 C
-java script
-type script
+JavaScript
+TypeScript
 
 # ml & data
 mlflow
