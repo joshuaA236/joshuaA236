@@ -15,7 +15,7 @@
 
 
 ## Training Data
-*How my background is spilt across different fields*
+*How my background is split across different fields*
 ```mermaid 
 pie showData
     title Training Data
@@ -26,7 +26,7 @@ pie showData
 ```
 
 ## Training Curve 
-*Lower is better. Here this means how much I still needed to learn from when I started to where I am now*
+*Lower is better. Here this means how much I still had to learn from when I started my academic and professional life to where I am now*
 ```mermaid 
 xychart-beta
     title "Training Loss"
