@@ -26,7 +26,7 @@ pie showData
 ```
 
 ## Training Curve 
-*Lower is better. Here this means how much I still had to learn from when I started my academic and professional life to where I am now*
+*Lower is better. Here this means how much I still had to learn from when I started my academic and professional career to where I am now*
 ```mermaid 
 xychart-beta
     title "Training Loss"
